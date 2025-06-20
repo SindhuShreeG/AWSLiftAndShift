@@ -1,3 +1,4 @@
+----AWS LIFT AND SHIFT PROJECT----
 Prerequsites For LIFT and SHIFT 
 OnPremise VM (Preferably in VMWare / Virtualbox)
 If you have *.vmdk image of your VM that will also be enough
